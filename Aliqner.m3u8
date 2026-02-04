@@ -119,9 +119,6 @@ http://185.46.16.239:8000/Zhivaya_Planeta
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Познавательные
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/mono.ts.m3u8
-#EXTINF:0,Звезда Плюс
-#EXTGRP:Познавательные
-http://vod1.stb.tvime.ru/Kliuch_HD/video.m3u8?token=billing_6WJDKE9cG25U
 #EXTINF:0,Ключ
 #EXTGRP:Познавательные
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
@@ -1268,3 +1265,4 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 #EXTINF:0,Футбол
 #EXTGRP:
 http://hls127.freeott.top:8080/Football/video.m3u8
+
