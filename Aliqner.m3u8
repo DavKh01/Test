@@ -2,6 +2,9 @@
 #EXTINF:0,-zabava 11.01.26 18:22 User: No-Auth IP: 87.241.158.101 iptvin.ru channels 345
 #EXTGRP:unsorted
 http://ex.iptvin.ru/iptvin.ru.mp4
+#EXTINF:0,Առաջին ալիք
+#EXTGRP:unsorted
+https://amtv.tulixcdn.com/amtv1/am1abr/index.m3u8
 #EXTINF:0,Первый канал
 #EXTGRP:Эфирные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8?version=2
@@ -1265,4 +1268,5 @@ https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33
 #EXTINF:0,Футбол
 #EXTGRP:
 http://hls127.freeott.top:8080/Football/video.m3u8
+
 
