@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:0,-zabava 11.01.26 18:22 User: No-Auth IP: 87.241.158.101 iptvin.ru channels 345
+#EXTINF:0,-zabava 11.01.26 18:22 User: No-Auth IP: 87.241.158.101 iptvin.ru channels 400
 #EXTGRP:unsorted
 http://ex.iptvin.ru/iptvin.ru.mp4
 #EXTINF:0,Առաջին Ալիք
@@ -1172,6 +1172,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8?version=2
 #EXTINF:0,Спас (+7)
 #EXTGRP:Религиозные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8?version=2
+
 
 
 
