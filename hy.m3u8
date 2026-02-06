@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1,21 HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s10/04.m3u8
+#EXTINF:-1,A1
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s45/04.m3u8
+#EXTINF:-1,AR
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s9/04.m3u8
+#EXTINF:-1,Ararat
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s6/04.m3u8
+#EXTINF:-1,Armenia TV 4
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s32/04.m3u8
+#EXTINF:-1,ArmeniaTV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:-1,ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s8/04.m3u8
+#EXTINF:-1,Bazmoc ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s74/04.m3u8
+#EXTINF:-1,Bridge TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1,Cineman
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s66/04.m3u8
+#EXTINF:-1,Dorama
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s95/04.m3u8
+#EXTINF:-1,FASTBOX & FUN
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s79/04.m3u8
+#EXTINF:-1,Fight Box
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s86/04.m3u8
+#EXTINF:-1,Filmzone ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s48/04.m3u8
+#EXTINF:-1,Food Network
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s18/04.m3u8
+#EXTINF:-1,H1 (t.me/iptv6)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s1/04.m3u8
+#EXTINF:-1,H2
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s2/04.m3u8
+#EXTINF:-1,Hay ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s73/04.m3u8
+#EXTINF:-1,Hay kino
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s22/04.m3u8
+#EXTINF:-1,HCT
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s87/04.m3u8
+#EXTINF:-1,Jan TV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s42/04.m3u8
+#EXTINF:-1,Kentron HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s5/04.m3u8
+#EXTINF:-1,MCM TOP
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:-1,Mezzo
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s35/04.m3u8
+#EXTINF:-1,MOTV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s12/04.m3u8
+#EXTINF:-1,Premium 1
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s83/04.m3u8
+#EXTINF:-1,RTG (t.me/iptv6)
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s80/04.m3u8
+#EXTINF:-1,RTG HD
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s63/04.m3u8
+#EXTINF:-1,Setanta Sport
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-1,Setanta Sport Plus
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s82/04.m3u8
+#EXTINF:-1,Shant
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s3/04.m3u8
+#EXTINF:-1,Tava ATV
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s53/04.m3u8
+#EXTINF:-1,Tiji
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s59/04.m3u8
+#EXTINF:-1,TV1000 Action
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s91/04.m3u8
+#EXTINF:-1,Yerkir Media
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s7/04.m3u8
+#EXTINF:-1,А HBO
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s64/04.m3u8
+#EXTINF:-1,АРМЕНИЯ ТВ5
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s46/04.m3u8
+#EXTINF:-1,Домашний
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s88/04.m3u8
+#EXTINF:-1,ЕВРОНОВОСТИ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s89/04.m3u8
+#EXTINF:-1,ЗОО ТВ
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s92/04.m3u8
+#EXTINF:-1,Загородный
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1,Здоровье
+#EXTVLCOPT:http-user-agent=smartlabs
+http://ott-cdn.ucom.am/s90/04.
