@@ -1226,6 +1226,12 @@ http://hls127.freeott.top:8080/CPS_Action/video.m3u8
 #EXTINF:0, HGTN
 #EXTGRP:Детские
 https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:0,Boomerang
+#EXTGRP:Детские
+http://176.118.197.125/Boomerang/index.m3u8
+#EXTINF:0,Ani
+#EXTGRP:Детские
+http://176.118.197.125/Ani/index.m3u8
 
 
 
