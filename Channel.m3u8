@@ -1178,9 +1178,6 @@ http://185.46.16.239:8000/Illyuzion+
 #EXTINF:0,TvBoom-ViP
 #EXTGRP:Кино
 https://kb.catcast.tv/content/49702/index.m3u8
-#EXTINF:0,Кино 1 International
-#EXTGRP:Кино
-http://Кино-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:0,MM Скорость HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
@@ -1229,6 +1226,7 @@ http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
 #EXTINF:0,CPS Action HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+
 
 
 
