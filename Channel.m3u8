@@ -1169,6 +1169,67 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_2/variant.m3u8?version=2
 #EXTINF:0,Спас (+7)
 #EXTGRP:Религиозные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8?version=2
+#EXTINF:0,viju TV1000 action
+#EXTGRP:Кино
+http://80.77.52.3/streams/media/tv1000action_720x576/index.m3u8
+#EXTINF:0,Иллюзион+
+#EXTGRP:Кино
+http://185.46.16.239:8000/Illyuzion+
+#EXTINF:0,TvBoom-ViP
+#EXTGRP:Кино
+https://kb.catcast.tv/content/49702/index.m3u8
+#EXTINF:0,Кино 1 International
+#EXTGRP:Кино
+http://Кино-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:0,MM Скорость HD
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/minimax-skorost-m4f/video.m3u8
+#EXTINF:0,Clarity4K Фантастика
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Fantastic/video.m3u8
+#EXTINF:0,Clarity4K Netflix
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Netflix/video.m3u8
+#EXTINF:0,Clarity4K Боевик
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
+#EXTINF:0,Clarity4K Драмы
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
+#EXTINF:0,Clarity4K КиноФраншизы
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Киноfranshiza/video.m3u8
+#EXTINF:0,Clarity4K Семейный
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
+#EXTINF:0,Clarity4K Ужасы
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Uzhasi/video.m3u8
+#EXTINF:0,Clarity4K Фэнтези
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
+#EXTINF:0,Clarity4k Deep House
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
+#EXTINF:0,Clarity4K Walt Disney
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
+#EXTINF:0,Clarity4K World Music
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
+#EXTINF:0,Clarity4K Звериный мир
+#EXTGRP:Познавательные
+http://hls127.freeott.top:8080/Clarity4K_Zveriniy_Mir/video.m3u8
+#EXTINF:0,Clarity4K Космомир
+#EXTGRP:Познавательные
+http://hls127.freeott.top:8080/Clarity4K_Kosmomir/video.m3u8
+#EXTINF:0,Clarity4K Мультимир
+#EXTGRP:Детские
+http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
+#EXTINF:0,CPS Action HD
+#EXTGRP:Кино
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+
 
 
 
