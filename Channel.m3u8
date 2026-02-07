@@ -1209,10 +1209,10 @@ http://hls127.freeott.top:8080/Clarity4K_Fentazi/video.m3u8
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Clarity4K_Concert/video.m3u8
 #EXTINF:0,Clarity4K Walt Disney
-#EXTGRP:Кино
+#EXTGRP:Детские
 http://hls127.freeott.top:8080/Clarity4K_Walt_Disney/video.m3u8
 #EXTINF:0,Clarity4K World Music
-#EXTGRP:Кино
+#EXTGRP:Музыкальные
 http://hls127.freeott.top:8080/Clarity4K_World_Music/video.m3u8
 #EXTINF:0,Clarity4K Звериный мир
 #EXTGRP:Познавательные
@@ -1226,6 +1226,9 @@ http://hls127.freeott.top:8080/Clarity4K_Multmir/video.m3u8
 #EXTINF:0,CPS Action HD
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:0, HGTN
+#EXTGRP:Детские
+https://v2.catcast.tv/content/34251/index.m3u8
 
 
 
