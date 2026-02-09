@@ -1190,9 +1190,6 @@ http://hls127.freeott.top:8080/Clarity4K_Boevik/video.m3u8
 #EXTINF:0,Clarity4K Драмы
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Clarity4K_Dramma/video.m3u8
-#EXTINF:0,Clarity4K КиноФраншизы
-#EXTGRP:Кино
-http://hls127.freeott.top:8080/Clarity4K_Киноfranshiza/video.m3u8
 #EXTINF:0,Clarity4K Семейный
 #EXTGRP:Кино
 http://hls127.freeott.top:8080/Clarity4K_Semeyniy/video.m3u8
@@ -1232,6 +1229,7 @@ http://176.118.197.125/Boomerang/index.m3u8
 #EXTINF:0,Ani
 #EXTGRP:Детские
 http://176.118.197.125/Ani/index.m3u8
+
 
 
 
